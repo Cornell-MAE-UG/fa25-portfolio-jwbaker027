@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my resume]({{ "/assets/resume.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [jwb388@cornell.edu](mailto:jwb388@cornell.edu) | | | **Phone:** 267-680-4410
+**Email:** [jwbaker027@gmail.com](mailto:jwbaker027@gmail.com) | | | **Phone:** 267-680-4410
 
 ---
 
@@ -21,6 +21,7 @@ permalink: /cv/
   *High School Diploma*  
   GPA: 4.32 | Graduation: June, 2023
   SAT: Total 1560 | Math 800 | Reading and Writing 760
+  Recipient of the National Merit Award
 
 ---
 
@@ -30,7 +31,7 @@ permalink: /cv/
   - Led weekly discussion sections for Dynamics, teaching course content and problem-solving techniques 
   - Provided office hours to aid students in coursework, learning outcomes, and MATLAB
 
-- **Hutchinson Industries, Inc. - Intern**  
+- **Hutchinson Industries, Inc. - Engineering Intern**  
   June, 2024 - August 2024
   - Designed experiments on a novel system to wirelessly collect strain data from aluminum wheels 
   - Authored and revised documentation for material, chemical, and fatigue testing procedures
@@ -39,6 +40,12 @@ permalink: /cv/
 ---
 
 #### Projects
+- **Fluid Mechanical Dissection**:   
+  - description
+
+- **Torque Wrench FEA**:   
+  - description
+  
 - **Product Design Project**:   
   - Worked on a four-person team to create a novel device to help people remember their keys
   - Iteratively designed and modeled a geared locking mechanism and mock-up in Autodesk Fusion 360
@@ -50,7 +57,7 @@ permalink: /cv/
 - **Cornell Jazz Ensemble - Lead Trumpet**  
   September, 2023 - Present 
   - Acted as the first chair trumpet in the ensemble, defining sound and style
-  - •	Played concerts with leading jazz musicians, such as Gerald Clayton and Sara Gazarek
+  - Played concerts with leading jazz musicians, such as Gerald Clayton and Sara Gazarek
 
 ---
 
@@ -70,6 +77,7 @@ Linear Algebra, Differential Equations, Multivariable Calculus
 
 - **Computer Science** 
 Engineering Computation, Data Science, Introduction to Computing
+
 ---
 
 #### References
