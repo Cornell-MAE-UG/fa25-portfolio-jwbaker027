@@ -31,6 +31,7 @@ permalink: /cv/
   - Led weekly discussion sections for Dynamics, teaching course content and problem-solving techniques 
   - Provided office hours to aid students in coursework, learning outcomes, and MATLAB  
 
+
 - **Hutchinson Industries, Inc. - Engineering Intern**  
   June, 2024 - August 2024
   - Designed experiments on a novel system to wirelessly collect strain data from aluminum wheels 
@@ -43,9 +44,11 @@ permalink: /cv/
 - **Fluid Mechanical Dissection**   
   - description  
 
+
 - **Torque Wrench FEA**   
   - description  
   
+
 - **Product Design Project**   
   - Worked on a four-person team to create a novel device to help people remember their keys
   - Iteratively designed and modeled a geared locking mechanism and mock-up in Autodesk Fusion 360
@@ -70,7 +73,7 @@ permalink: /cv/
 
 #### Relevant Courses
 - **Engineering**  
- Mechatronics*, Engineering Simulations and Design*, Heat Transfer*, Mechanics of Materials, Fluid Mechanics, System Dynamics, Dynamics, Statics and Mechanics of Solids, Thermodynamics, Intro Mechanical Design (*Currently enrolled)
+ Mechatronics\*, Engineering Simulations and Design\*, Heat Transfer\*, Mechanics of Materials, Fluid Mechanics, System Dynamics, Dynamics, Statics and Mechanics of Solids, Thermodynamics, Intro Mechanical Design (\*Currently enrolled)
 
 - **Math**  
  Linear Algebra, Differential Equations, Multivariable Calculus
