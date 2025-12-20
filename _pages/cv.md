@@ -70,13 +70,13 @@ permalink: /cv/
 
 #### Relevant Courses
 - **Engineering**  
-Mechatronics*, Engineering Simulations and Design*, Heat Transfer*, Mechanics of Materials, Fluid Mechanics, System Dynamics, Dynamics, Statics and Mechanics of Solids, Thermodynamics, Intro Mechanical Design (*Currently enrolled)
+ Mechatronics*, Engineering Simulations and Design*, Heat Transfer*, Mechanics of Materials, Fluid Mechanics, System Dynamics, Dynamics, Statics and Mechanics of Solids, Thermodynamics, Intro Mechanical Design (*Currently enrolled)
 
 - **Math**  
-Linear Algebra, Differential Equations, Multivariable Calculus
+ Linear Algebra, Differential Equations, Multivariable Calculus
 
 - **Computer Science** 
-Engineering Computation, Data Science, Introduction to Computing
+ Engineering Computation, Data Science, Introduction to Computing
 
 ---
 
