@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 3260 Final Group Work
+title: System Dynamics Final Group Work
 description: 
 technologies: []
 image: /assets/images/satellite.webp
