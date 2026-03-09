@@ -5,4 +5,10 @@ description:
 technologies: []
 image:
 ---
-radation does not exist beyond HW 1
+[View the problem statements]({{ "/assets/3240 problems.pdf" | relative_url }})
+
+[View my work]({{ "/assets/3240 HW4.pdf" | relative_url }})
+
+<p> This assignment was the fourth homework in MAE 3240 Heat Transfer. Problem 1 addresses a more complex application of thermal resistance networks. There are multiple sources and sinks of thermal "current", including a power output with an efficiency dependent on temperature. This makes the problem more complex, as the heat flow is implicit with the internal temperature. It presents a fairly realistic calculation that one may have to perform when analyzing a power generating system. In this problem, I learned how to connect ideas from circuit analysis to thermal resistance networks. </p>
+
+<p> The last two problems concern fins. These problems illustrated the extent to which fins can dramatically increase heat transfer. In the third problem, for example, a relatively small fin has an effectiveness of 36. Learning how to analyze the thermal fins has broad applications in work as a professional engineer, such as in a CPU's or engine's heat sink. </p>
