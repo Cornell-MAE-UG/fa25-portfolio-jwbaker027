@@ -156,11 +156,12 @@ footer {
 
 .gallery-img-wrap {
   width: 100%;
+  max-width: 250px;
   aspect-ratio: 1 / 1;
   overflow: hidden;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
+  margin: 0 auto;
 
 .gallery-item img {
   width: 100%;
