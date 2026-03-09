@@ -148,16 +148,15 @@ footer {
 }
 
 .gallery-item {
-  overflow: visible;
+  overflow: hidden;
   text-align: center;
   transition: transform 0.3s ease;
-  max-width: 250px; 
-  max-height: 300px; 
+  max-width: 250px;
 }
 
 .gallery-item img {
   width: 100%;
-  height: auto;
+  height: 100%;
   aspect-ratio: 1 / 1;
   display: block;
   object-fit: cover;
